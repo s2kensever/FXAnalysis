@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "exceljs": "^4.4.0"
+  }
+}
